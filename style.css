@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body{
-    color:#555;
+    color: #8AA2A9;
     margin:0;
     font-family: 'Montserrat' , sans-serif;
 }
@@ -14,7 +14,7 @@ body{
 /*Header*/
 
 #header{
-    background-color: #1abc9c;
+    background-color: #A1E5AB;
     height: 150px;
     line-height: 150px;
 }
@@ -27,7 +27,7 @@ body{
 }
 
 #header a:hover {
-    color: #222;
+    color: #8AA2A9;
 }
 
 #header-title {
@@ -100,7 +100,7 @@ p {
 /*Footer*/
 
 #footer {
-    background-color: #222;
+    background-color: #3A4047;
     padding: 50px 0;
 }
 
@@ -111,12 +111,12 @@ p {
 }
 
 a {
-    color: #1abc9c;
+    color: #A1E5AB;
     text-decoration: none;
 }
 
 a:hover {
-    color: #f6a623;
+    color: #8AA2A9;
 }
 
 .column {
